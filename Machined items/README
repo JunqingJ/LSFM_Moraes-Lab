@@ -1,0 +1,7 @@
+ARCOpticThreads.xml - Threading file for Fusion 360 to generate internal/external SM1 threading. To use it, add the .xml file into local threading data folder (C:\Users\%Username%\AppData\Local\Autodesk\webdeploy\production\%Version number%\Fusion\Server\Fusion\Configuration\ThreadData) of Fusion360
+
+CCM_G01 side mount plate - Fusion 360 design file. CCM_G01 is design to turn the light in xy plane. In case the light to be turned into z axis, a side mounting is need
+
+Sample stage arm - the stage arm is designed to fit onto Picard 4D stage to hold a 35mm petri dish with set screw
+
+Slide git Powell mount - The mounting of Powell lens has always been a headache, the mount is designed to adapt a 8.9mm Powell lens from Laserline Optics into 30mm cage palte from Thorlabs. It is important to ask for **Slide fit** when machining
