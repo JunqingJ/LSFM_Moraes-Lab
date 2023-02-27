@@ -1,5 +1,6 @@
 ARCOpticThreads.xml - Threading file for Fusion 360 to generate internal/external SM1 threading. 
-To use it, add the .xml file into local threading data folder(C:\Users\%Username%\AppData\Local\Autodesk\webdeploy\production\%Version number%\Fusion\Server\Fusion\Configuration\ThreadData) of Fusion360
+To use it, add the .xml file into local threading data folder of Fusion360
+Folder address ((C:\Users\%Username%\AppData\Local\Autodesk\webdeploy\production\%Version number%\Fusion\Server\Fusion\Configuration\ThreadData))
 
 CCM_G01 side mount plate - Fusion 360 design file. CCM_G01 is design to turn the light in xy plane. In case the light to be turned into z axis, a side mounting is need
 
